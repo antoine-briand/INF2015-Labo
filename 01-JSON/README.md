@@ -17,7 +17,7 @@ Nous manipulerons du JSON en Java à l'aide de la librairie org.json.
 
 * [Site officiel JSON](http://json.org/)
 * [Linter JSON](https://jsonlint.com)
-* []Documentation de la librairie org.json](http://stleary.github.io/JSON-java/index.html)
+* [Documentation de la librairie org.json](http://stleary.github.io/JSON-java/index.html)
 
 ## Retour sur JSON
 
