@@ -147,5 +147,6 @@ Le résultat devrait ressembler à ceci :
 Valider le document à l'aide de [json-lint](https://jsonlint.com)
 
 
+## Correction
 
-
+La correction du labo est disponible [ici](https://github.com/antoine-briand/INF2015-Labo/tree/correction/01-JSON/src/main/java/ca/uqam/inf2015/labo/json)
