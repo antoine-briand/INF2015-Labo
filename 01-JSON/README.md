@@ -58,7 +58,7 @@ La librairie que nous utiliserons est la suivante :
     
 * Téléchargez le document [JSON suivant](https://raw.githubusercontent.com/antoine-briand/INF2015-Labo/master/01-JSON/input.json)
 * Dans un projet Java, effectuez la lecture du fichier vers un string.
-* Vous pouvez utiliser le fichier [FileReader.java](https://github.com/antoine-briand/INF2015-Labo/blob/master/01-JSON/src/main/java/ca/uqam/inf2015/labo/json/FileReader.java) fournie pour lire un fichier vers un string.
+* Vous pouvez utiliser le fichier [FileReader.java](https://raw.githubusercontent.com/antoine-briand/INF2015-Labo/master/01-JSON/src/main/java/ca/uqam/inf2015/labo/json/FileReader.java) fournie pour lire un fichier vers un string.
 * Convertissez la chaîne de caractères en un objet JSONArray
 * En manipulant l'objet généré, afficher le nombre d'éléments dans la collection
     * Conseil : Utiliser la fonction ```length()```
